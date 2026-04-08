@@ -33,7 +33,7 @@ options:
 
   load_buffer_distance: 1000  # in meters, ~1km; unit depends on the CRS
 
-  lower_scene_limit: 250
+  lower_scene_limit: 50
   upper_scene_limit: 2000
 
 aws:
