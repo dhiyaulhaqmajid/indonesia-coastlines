@@ -31,9 +31,9 @@ options:
   
   use_ensemble: False
 
-  load_buffer_distance: 1000  # in meters, ~1km; unit depends on the CRS
+  load_buffer_distance: 5000  # in meters, ~1km; unit depends on the CRS
 
-  lower_scene_limit: 50
+  lower_scene_limit: 100
   upper_scene_limit: 2000
 
 aws:
